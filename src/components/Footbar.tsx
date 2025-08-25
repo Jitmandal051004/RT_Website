@@ -30,7 +30,7 @@ const Footbar = () => {
                 <div className='flex flex-col lg:flex-row mb-7 justify-center gap-10 items-start'>
                     <div className='flex flex-col lg:w-[160px] gap-4'>
                         <Image
-                            src="/snug.jpeg"
+                            src="/rtProject.jpg"
                             width={160}
                             height={91.92}
                             alt = "BrandLogo" 

@@ -1,7 +1,7 @@
 import type { Config } from "tailwindcss";
 
 const backgroundImages = Object.fromEntries(
-	Array.from({ length: 21 }, (_, i) => [`br${i + 1}`, `url("/partners/bg-br${i + 1}.png")`])
+	Array.from({ length: 3 }, (_, i) => [`br${i + 1}`, `url("/partners/bg-br${i + 1}.png")`])
 );
 
 const config: Config = {
@@ -21,7 +21,7 @@ const config: Config = {
 				'CP2': 'url("/img/CP2.jpeg")',
 				'CP3': 'url("/img/CP3.jpeg")',
 				'CP4': 'url("/img/CP4.jpeg")',
-				'abtBg': 'url("/img/abtbg.jpeg")',
+				'abtBg': 'url("/img/AboutUsLandingPg.jpg")',
 				'abtpgBg': 'url("/AboutBanner.jpeg")',
 				'bgBanner': 'url("/bg.png")',
 				...backgroundImages

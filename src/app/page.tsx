@@ -5,16 +5,16 @@ export default function Home() {
     <div className="wrapper">
       <Navbar />
       <Banner />
-      <Textbar
+      {/* <Textbar
         text = "Snug brings bespoke comfort to your home with custom furnishings that blend style,<br /> function, and durability perfect for any space."
         bgColor="bg-white"
-      />
-      <Detail />
-      <Service />
+      /> */}
       <About />
       <Partners />
-      {/* <Testimonial /> */}
-      <CarouselPlugin />
+      {/* <Detail />
+      <Service />
+      <Testimonial />
+      <CarouselPlugin /> */}
       <Footbar />
     </div>
   );

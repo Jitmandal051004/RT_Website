@@ -1,15 +1,14 @@
 export const Links = [
-    { href: '/about', key: 'About us', text: 'About us'},
-    { href: '/productPg', key: 'Services', text: 'Services'},
-    { href: '/productPg', key: 'Featured Products', text: 'Featured Products'},
-    { href: '/qualityNservice', key: 'Quality Standards', text: 'Quality Standards'},
+    // { href: '/about', key: 'About us', text: 'About us'},
+    { href: '/ourTeam', key: 'Our Team', text: 'Our Team'},
+    { href: '/timeline', key: 'Timeline', text: 'Timeline'},
     { href: '/contactUs', key: 'Contact Us', text: 'Contact Us'}
 ]
 
 export const navLinks = [
-    { href: '/about', key: 'About us', text: 'About us'},
-    { href: '/productPg', key: 'Our Team', text: 'Our Team'},
-    { href: '/qualityNservice', key: 'Timeline', text: 'Timeline'},
+    // { href: '/about', key: 'About us', text: 'About us'},
+    { href: '/ourTeam', key: 'Our Team', text: 'Our Team'},
+    { href: '/timeline', key: 'Timeline', text: 'Timeline'},
     { href: '/contactUs', key: 'Contact Us', text: 'Contact Us'}
 ]
 

@@ -18,6 +18,8 @@ import ProductList from "./ProductList";
 import ProductDropdowns from "./ProductDropdowns";
 import ProductDetail from "./ProductDetail";
 import CarouselPlugin from "./Carousel"; 
+import OurTeamProfile from "./OurTeamProfile";
+import Timeline from "./Timeline";
 
 export{
     Navbar,
@@ -39,5 +41,7 @@ export{
     ProductList,
     ProductDropdowns,
     ProductDetail,
-    CarouselPlugin
+    CarouselPlugin,
+    OurTeamProfile,
+    Timeline
 }
