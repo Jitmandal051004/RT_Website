@@ -77,16 +77,15 @@ export const footerMenu = [
     {
         title: 'Address',
         links: [
-            '291/A, 34th Cross Rd, 4th Block,',
-            'Jayanagar, Bengaluru, Karnataka',
-            '560011, India',
+            'BITS Pilani, Goa campus',
+            'Zuarinagar, Goa',
+            '403726, India',
         ]
     },
     {
         title: 'Email',
         links: [
-            'Snugfurnishing@gmail.com',
-            'Examplemail@gmail.com'
+            'rtproject@gmail.com'
         ],
     },
     {
@@ -94,7 +93,7 @@ export const footerMenu = [
         links: [
             'Mon-Sat',
             '11:00am-7:00pm',
-            '+91 95389 53904',
+            '+91 95389 xxxxx',
         ],
     },
     {
@@ -102,7 +101,7 @@ export const footerMenu = [
         links: [
             'Mon-Sat',
             '11:00am-7:00pm',
-            '+91 95389 53904',
+            '+91 95389 xxxxx',
         ],
     }
 ]
