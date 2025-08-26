@@ -59,7 +59,7 @@ const Footbar = () => {
                     </div>
                 </div>
                 <div className='flex items-center text-zinc-700 text-sm justify-center py-4 border-t-2 border-zinc-500'>
-                    Copyright&nbsp;<Copyright />&nbsp;2025 Snug. All right reserved
+                    Copyright&nbsp;<Copyright />&nbsp;2025 ProjectRT BITS GOA. All right reserved
                 </div>
             </div>
         </div>
